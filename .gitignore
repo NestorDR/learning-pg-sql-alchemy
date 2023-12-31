@@ -1,0 +1,15 @@
+# Byte-compiled
+__pycache__/
+
+# directories
+.idea/
+.vscode/
+snippets/
+notes/
+
+# environment
+env/
+
+# files
+notes.md
+notes.md
