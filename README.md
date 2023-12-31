@@ -7,6 +7,7 @@ How to use SQLAlchemy ORM to persist and query data on Python applications, by [
 - [sqlacodegen](https://github.com/agronholm/sqlacodegen/tree/master)
 This is a tool that reads the structure of an existing database and generates the appropriate SQLAlchemy model code,
 
-Issues
-[Solve Error: import name 'ArgSpec' from 'inspect'](https://github.com/agronholm/sqlacodegen/issues/239)
+In sqlcodegen to [Solve Error: import name 'ArgSpec' from 'inspect'](https://github.com/agronholm/sqlacodegen/issues/239)
+```
 pip --install sqlacodegen 3.0.0rc3
+```
